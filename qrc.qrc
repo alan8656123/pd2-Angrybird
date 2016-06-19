@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/picture">
+        <file>birdreds.png</file>
+        <file>boo.png</file>
+        <file>boss.png</file>
+        <file>background.jpg</file>
+        <file>word.png</file>
+    </qresource>
+    <qresource prefix="/new/sound"/>
+</RCC>
